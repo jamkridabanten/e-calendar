@@ -30,11 +30,11 @@ Application
 
 #### Issues
 
-Untuk semua masalah termasuk permintaan penambahan fitur
+No issues
 
 #### Changes
 
-Lihat pada tab Changelog untuk mengetahui seluruh perubahan yang telah dilakukan.
+Lihat [Changelog](https://github.com/jamkridabanten/e-calendar/blob/main/CHANGELOG.md) untuk mengetahui seluruh perubahan yang telah dilakukan.
 
 #### Credits
 
