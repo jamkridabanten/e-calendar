@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/*! -----------------------------------------------------------------------------------
+
+    Name: Ionix Eternal Studio
+    URL: https://ionixeternal.co.id/
+    Description: This is Style for Fix CSS
+    Author: Uben Wisnu
+    Author URI: https://www.instagram.com/ubenwisnu
+
+-----------------------------------------------------------------------------------
+*/
+
+.hidden {
+  display: none;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.clearfix {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.social-icons.social-icons-medium li a, .social-icons.social-icons-md li a {
+  line-height: 31px!important;
+}
+
+@media (max-width: 991px) {
+  #header .header-nav-main:not(.header-nav-main-mobile-dark) nav > ul > li.active > a {
+    color: #FFF;
+  }
+}
